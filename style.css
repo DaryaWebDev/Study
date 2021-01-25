@@ -34,9 +34,7 @@ body {
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
-}
-
-.header-email {
+}herohero.header-email {
   padding-left: 30px;
   background-image: url("img/icon-email-header.svg");
 }
